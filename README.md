@@ -64,5 +64,6 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 <p align="center">
   <strong style="font-size: 1.3em; letter-spacing: 1px;">⚡ VV / KUZEY ⚡</strong><br>
   <em>Securing And Checking Licenses with elegance and raw Python power.</em>
+
   <em>Maybe Some JS</em>
 </p>
