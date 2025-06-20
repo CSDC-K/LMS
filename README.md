@@ -1,10 +1,10 @@
 # 📦 LMS - License Management System
 
-[![GitHub stars](https://img.shields.io/github/stars/CSDC-K/LMS?style=social)](https://github.com/CSDC-K/LMS/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/CSDC-K/LMS?style=social)](https://github.com/CSDC-K/LMS/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/CSDC-K/LMS)](https://github.com/CSDC-K/LMS/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%2B-00adee?style=for-the-badge&logo=windows)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge)
 [![GitHub license](https://img.shields.io/github/license/CSDC-K/LMS)](https://github.com/CSDC-K/LMS/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+
 
 ---
 
