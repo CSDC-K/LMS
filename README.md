@@ -16,8 +16,6 @@
 ---
 
 
----
-
 ## 🔥 About LMS
 
 **LMS (License Management System)** is a lightweight and modular client-server license management solution designed to securely handle license validation and management across multiple clients using JSON-formatted license data. It supports product keys, trial licenses, and is built on Python socket communication for easy integration.
