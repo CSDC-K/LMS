@@ -39,7 +39,15 @@
 
 ### Installation
 
-1. Clone the repository:  
+1. Install Module:  
 ```bash
-git clone https://github.com/CSDC-K/LMS.git
-cd LMS
+pip install LMS-PY
+```
+
+### Server Codes
+
+![License Management Server](docs/server.png)
+
+### Client Codes
+
+![License Management Server](docs/client.png)
