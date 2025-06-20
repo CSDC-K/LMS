@@ -5,6 +5,16 @@
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge)
 [![GitHub license](https://img.shields.io/github/license/CSDC-K/LMS)](https://github.com/CSDC-K/LMS/blob/main/LICENSE)
 
+---
+
+
+<p align="center">
+  <img src="docs/python.gif" alt="CleanerVV Demo" width="900" height="500">
+</p>
+
+
+---
+
 
 ---
 
